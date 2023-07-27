@@ -6,6 +6,4 @@ I had some help from ISpeZZ for the color changes, and i think a bit of the rang
 
 other then that the rest is my code, im not sure how well the files will play with the ADK as they are from a 2017 build of it. 
 
-That being said, good luck, if you have questions you can shoot me a message on discord Azazel#8008. Though i wont lie, i havent touched any of the ADK since 2017.
-
-Enjoy.
+That being said, good luck.
